@@ -3,7 +3,7 @@
         "marketcap": 0.0,
         "name": "Netsis",
         "symbol": "NET",
-        "volume": 68.78,
+        "volume": 68.67,
         "fees": 5.0,
         "roi": 120,
         "masternode_count": 0,
@@ -18,9 +18,9 @@
         "id": "65eaacad1c1c73cf5795d9c6",
         "collateral": 10000.0,
         "left": 0,
-        "price": 0.0003633,
-        "change": 4.48,
-        "datetime": "2024-12-31 15:50:41.310222+00:00"
+        "price": 0.00035953,
+        "change": 3.68,
+        "datetime": "2024-12-31 16:06:34.305166+00:00"
     },
     {
         "marketcap": 0,
