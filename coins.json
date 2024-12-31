@@ -97,11 +97,11 @@
         "keypoololdest": 23820931735306721
     },
     {
-        "marketcap": 201337,
+        "marketcap": 201009,
         "name": "IDChain",
         "symbol": "DCT",
-        "price": 0.00374186,
-        "change": -5.47,
+        "price": 0.00374776,
+        "change": -5.27,
         "roi": 300,
         "fees": 5,
         "__v": 0,
@@ -110,7 +110,7 @@
             "github": "https://github.com/idchaincoin",
             "website": "https://idchaingroup.com/"
         },
-        "volume": 237.36,
+        "volume": 237.74,
         "msg_id": 1322871256806064179,
         "transaction_fees": 0.001,
         "basedecimal": 8,
@@ -119,7 +119,7 @@
         "lastblockheight": 125955,
         "left": 0,
         "masternode_count": 0,
-        "datetime": "2024-12-31 15:51:16.089693+00:00",
+        "datetime": "2024-12-31 16:07:06.846431+00:00",
         "keypoololdest": 1735488344
     }
 ]
