@@ -49,7 +49,7 @@
         "marketcap": 0.0,
         "name": "Kiirocoin",
         "symbol": "KIIRO",
-        "price": 0.00715772,
+        "price": 0.00776898,
         "fees": 4,
         "__v": 0,
         "links": {
@@ -57,7 +57,7 @@
             "github": "https://www.coin.com",
             "website": "https://kiirocoin.org"
         },
-        "volume": 397.64,
+        "volume": 399.37,
         "msg_id": 1260885981184135250,
         "transaction_fees": 0.0011,
         "basedecimal": 8,
@@ -67,8 +67,8 @@
         "left": 534.64782,
         "masternode_count": 1,
         "roi": 300,
-        "change": -7.0,
-        "datetime": "2024-12-31 15:51:49.892932+00:00"
+        "change": 0.94,
+        "datetime": "2024-12-31 16:07:41.475578+00:00"
     },
     {
         "marketcap": 0,
